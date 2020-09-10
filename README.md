@@ -3,4 +3,6 @@
 I'm Cuong, a Software Engineer
 </p>
 
-![Cuong's github stats](https://github-readme-stats.vercel.app/api?username=vuhuucuong&show_icons=true&theme=onedark)
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=vuhuucuong&show_icons=true&theme=onedark" alt="stat" />
+</p>
