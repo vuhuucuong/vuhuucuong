@@ -9,13 +9,13 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- Languages: JavaScript, TypeScript, HTML, CSS
-- Libraries: React, Redux, NextJS, Apollo GraphQL, Tailwind, SCSS, styled-components
-- Bunding tools: Webpack, Rollup, ESBuild, Vite
-- Databases: PostgreSQL, MySQL, MongoDB
-- Testing: Jest, Enzyme, React Testing Library, Cypress
-- DevOps: Docker, Terraform, AWS, Netlify, Vercel
-- Others: Vim, Git
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Libraries**: React, Redux, NextJS, Apollo GraphQL, Tailwind, SCSS, styled-components
+- **Bunding tools**: Webpack, Rollup, ESBuild, Vite
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Testing**: Jest, Enzyme, React Testing Library, Cypress
+- **DevOps**: Docker, Terraform, AWS, Netlify, Vercel
+- **Others**: Vim, Git
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vuhuucuong" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
